@@ -8,7 +8,7 @@ More about mehhh 🧑🏽‍💻 :
 - 🔭 I’m currently working on ----- Web Apps | Native Apps 
 - 🌱 I’m currently learning ----- Flutter and much more... 🤪
 - 💬 Ask me about ----- Blockchain 🔲⛓️ | Web Dev 🕸️💻 | Soccer ⚽🏃
-- ⚡ Fun fact ----- 🇻🇳 -> 🇦🇺 
+- ⚡ Fun fact ----- Manucian <img width="12" src="https://emojis.slackmojis.com/emojis/images/1533824144/4447/manutd.png?1533824144"> | Viet :vietnam: | Cook 👨‍🍳
 
 More about me on social media:
 
