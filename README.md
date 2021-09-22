@@ -8,13 +8,13 @@ More about mehhh 🧑🏽‍💻 :
 - 🔭 I’m currently working on ----- Web Apps | Native Apps 
 - 🌱 I’m currently learning ----- Flutter and much more... 🤪
 - 💬 Ask me about ----- Blockchain 🔲⛓️ | Web Dev 🕸️💻 | Soccer ⚽🏃
-- ⚡ Fun fact ----- Manucian <img width="12" src="https://emojis.slackmojis.com/emojis/images/1533824144/4447/manutd.png?1533824144"> | Viet :vietnam: | Cook 👨‍🍳
+- ⚡ Fun fact ----- Manucian <img width="12" src="https://emojis.slackmojis.com/emojis/images/1533824144/4447/manutd.png?1533824144"> | Viet | Cook 👨‍🍳
 
 More about me on social media:
 
-<center>
+<p align="center">
 <a href="https://twitter.com/jasonp2419"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://github.com/jasonhtpham"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/thien-jason-pham-a82352168/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-</center>
+</p>
 
 
 <p align="center">
