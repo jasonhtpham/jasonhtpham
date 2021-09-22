@@ -2,10 +2,10 @@
 
 I develop web applications with NodeJS and React framework. I have started my passion to learn and develop native applications using Flutter 😋. I always love learning and contributing to projects to make them as good as possible. I am also interested in blockchain techonology and developing decentralized applications (Dapps ヾ( -,-)ゞ).
 
-More about mehhh 🧑🏽‍💻 :
+More about mehhh 👨🏻‍💻🏽‍💻 :
 
 - 😄 Pronouns ----- HE | HIM | HIS 🙋‍♂️
-- 🔭 I’m currently working on ----- Web Apps | Native Apps 
+- 🔭 I’m currently working on ----- Web Apps 🕸️ | Native Apps 📱
 - 🌱 I’m currently learning ----- Flutter and much more... 🤪
 - 💬 Ask me about ----- Blockchain 🔲⛓️ | Web Dev 🕸️💻 | Soccer ⚽🏃
 - ⚡ Fun fact ----- Manucian <img width="12" src="https://emojis.slackmojis.com/emojis/images/1533824144/4447/manutd.png?1533824144"> | Viet | Cook 👨‍🍳
