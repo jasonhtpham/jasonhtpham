@@ -33,6 +33,9 @@ More about me on social media:
 
 
 <!--START_SECTION:waka-->
+```text
+Markdown   1 hr 54 mins    █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
 
 <!--
