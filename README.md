@@ -16,7 +16,6 @@ More about me on social media:
 <a href="https://twitter.com/jasonp2419"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://github.com/jasonhtpham"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/thien-jason-pham-a82352168/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jasonhtpham&count_private=true&show_icons=true&title_color=Ee4644&icon_color=Ee4644&text_color=E2cd5c&bg_color=191622&border_color=E2cd5c&hide_title=true"/>
   </p>
@@ -30,7 +29,11 @@ More about me on social media:
 <img src="https://github-readme-stats.vercel.app/api/wakatime/?custom_title=Week+Stats&langs_count=4&bg_color=191622&text_color=E2cd5c&border_color=E2cd5c&title_color=Ee4644" />
   </p>
 
+---
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Coding...&center=true&color=E2cd5c&vCenter=true" />
 
+  </p>
 
 <!--START_SECTION:waka-->
 ```text
