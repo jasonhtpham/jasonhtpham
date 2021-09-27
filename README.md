@@ -37,8 +37,9 @@ More about me on social media:
 
 <!--START_SECTION:waka-->
 ```text
-Dart       16 hrs 37 mins  ██████████████████████░░░   88.31 % 
-Markdown   2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Dart       21 hrs 16 mins  ██████████████████████▓░░   90.57 % 
+Markdown   2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 <!--END_SECTION:waka-->
 
