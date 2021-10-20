@@ -37,10 +37,10 @@ More about me on social media:
 
 <!--START_SECTION:waka-->
 ```text
-Dart         11 hrs 1 min    ███████████████████████▒░   93.75 % 
-YAML         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-XML          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Dart         18 hrs 22 mins  ████████████████████████░   95.34 % 
+YAML         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+XML          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 <!--END_SECTION:waka-->
 
