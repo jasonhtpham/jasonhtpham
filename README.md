@@ -37,7 +37,11 @@ More about me on the social media:
 
 <!--START_SECTION:waka-->
 ```text
-
+Dart        4 hrs 42 mins   ███████████████████████░░   92.66 % 
+JSON        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+YAML        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Batchfile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+CMake       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 <!--END_SECTION:waka-->
 
