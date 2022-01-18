@@ -37,11 +37,11 @@ More about me on the social media:
 
 <!--START_SECTION:waka-->
 ```text
-Dart         15 hrs 6 mins   ██████████████░░░░░░░░░░░   56.40 % 
-JavaScript   9 hrs 35 mins   █████████░░░░░░░░░░░░░░░░   35.79 % 
-XML          58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-JSON         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Groovy       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+JavaScript   14 hrs 24 mins  █████████████░░░░░░░░░░░░   52.64 % 
+Dart         10 hrs 37 mins  █████████▓░░░░░░░░░░░░░░░   38.82 % 
+JSON         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+XML          44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Groovy       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 <!--END_SECTION:waka-->
 
