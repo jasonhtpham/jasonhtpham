@@ -38,11 +38,11 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```text
-Dart         19 hrs 22 mins  ██████████████████░░░░░░░   72.00 %
-JavaScript   5 hrs 50 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
-Docker       1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Dart         22 hrs 45 mins  ██████████████████▓░░░░░░   74.61 %
+JavaScript   5 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+Docker       1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
