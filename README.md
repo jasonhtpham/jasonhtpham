@@ -38,10 +38,8 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   13 mins         ████████████████▓░░░░░░░░   67.31 %
-C#           6 mins          ███████▓░░░░░░░░░░░░░░░░░   30.24 %
-Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+JavaScript   13 mins         ████████████████████████▒   97.21 %
+Python       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
