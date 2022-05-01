@@ -38,8 +38,7 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   13 mins         ████████████████████████▒   97.21 %
-Python       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
