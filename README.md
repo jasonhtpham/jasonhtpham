@@ -38,9 +38,10 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 57 mins    ███████████████████████▓░   94.41 %
-JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+JavaScript   3 hrs 19 mins   ███████████████████████▓░   94.82 %
+JSON         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
