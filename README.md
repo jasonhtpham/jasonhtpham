@@ -41,6 +41,7 @@ More about me on the social media:
 JavaScript   8 hrs 10 mins   █████████████████████████   99.85 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
