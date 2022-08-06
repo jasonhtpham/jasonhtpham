@@ -38,7 +38,11 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python       1 hr 59 mins    ██████████████████████▓░░   90.89 %
+YAML         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
