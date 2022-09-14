@@ -38,8 +38,8 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 50 mins   ████████████████████████▒   97.88 %
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+JavaScript   2 hrs 40 mins   ████████████████████████░   96.24 %
+JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->
