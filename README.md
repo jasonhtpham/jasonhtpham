@@ -38,9 +38,11 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 32 mins    ███████████████████▒░░░░░   77.52 %
-Markdown     26 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JavaScript   1 hr 32 mins    ███████████████▓░░░░░░░░░   62.33 %
+Markdown     30 mins         █████░░░░░░░░░░░░░░░░░░░░   20.19 %
+Python       25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
