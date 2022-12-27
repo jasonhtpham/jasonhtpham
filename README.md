@@ -38,8 +38,7 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```text
-Bash   9 mins          ████████████████████████▓   99.29 %
-Dart   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
