@@ -38,7 +38,11 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Bash         28 mins         █████████░░░░░░░░░░░░░░░░   35.35 %
+Dart         17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
+JavaScript   13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+Docker       9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+Other        7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
 ```
 
 <!--END_SECTION:waka-->
