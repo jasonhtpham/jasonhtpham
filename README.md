@@ -38,8 +38,7 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```text
-Bash         0 secs          ██████████████░░░░░░░░░░░   55.70 %
-JavaScript   0 secs          ███████████░░░░░░░░░░░░░░   44.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
