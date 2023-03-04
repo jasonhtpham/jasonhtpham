@@ -38,9 +38,9 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```text
-Dart         7 hrs 45 mins   ████████████▓░░░░░░░░░░░░   50.07 %
-JavaScript   6 hrs 33 mins   ██████████▓░░░░░░░░░░░░░░   42.33 %
-Other        31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Dart         8 hrs 32 mins   ████████████▓░░░░░░░░░░░░   51.20 %
+JavaScript   6 hrs 38 mins   ██████████░░░░░░░░░░░░░░░   39.82 %
+Other        47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
 ```
 
 <!--END_SECTION:waka-->
