@@ -38,7 +38,9 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```text
-Dart   10 mins         █████████████████████████   100.00 %
+Dart   10 mins         █████████████████████▓░░░   87.08 %
+C++    1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
+Roff   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
