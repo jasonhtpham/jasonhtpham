@@ -38,9 +38,7 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```text
-YAML   3 mins          █████████████████░░░░░░░░   67.65 %
-C++    1 min           ███████▒░░░░░░░░░░░░░░░░░   29.52 %
-Roff   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+YAML   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
