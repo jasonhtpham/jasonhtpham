@@ -38,7 +38,7 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```text
-YAML   3 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
