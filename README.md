@@ -37,7 +37,7 @@ More about me on the social media:
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
