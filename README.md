@@ -38,9 +38,7 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   33 mins         ██████████████████████▓░░   90.00 %
-JSON   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-YAML   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
