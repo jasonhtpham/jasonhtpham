@@ -38,7 +38,10 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript       3 mins          ███████████▓░░░░░░░░░░░░░   46.35 %
+ActionScript 3   1 min           █████░░░░░░░░░░░░░░░░░░░░   20.36 %
+ActionScript     1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
+Ezhil            1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
 ```
 
 <!--END_SECTION:waka-->
