@@ -38,11 +38,7 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              1 hr 51 mins    ██████████████████▓░░░░░░   74.06 %
-Groovy            11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-JSON              8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-YAML              7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Java Properties   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
