@@ -38,7 +38,10 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   7 mins          █████████████████████████   100.00 %
+Dart     38 mins         ████████████████████▒░░░░   81.29 %
+YAML     8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
