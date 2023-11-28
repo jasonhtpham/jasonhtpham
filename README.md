@@ -38,11 +38,7 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart     2 hrs 5 mins    ██████████████████████▒░░   89.28 %
-Docker   14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
