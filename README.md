@@ -38,9 +38,9 @@ More about me on the social media:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   23 mins         ████████████████████▒░░░░   81.48 %
-Docker       5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.88 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Docker       5 mins          ████████████████████████░   96.23 %
+JSON         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
